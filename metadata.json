@@ -1,0 +1,5 @@
+{
+  "name": "Sinuca Bankroll Manager",
+  "description": "Gestor de banca para apostas em sinuca com acompanhamento de metas diárias e estatísticas de performance.",
+  "requestFramePermissions": []
+}
